@@ -1,7 +1,7 @@
 # A little piece of Mauricio
 
 ## Hi visitor
-I'm a brazilian developer graduating on Computer Engineering, who loves to test new technologies in order to try them out, for example a blockchain implementation I created using Python and Django, and with the vision of testing the technology even more, I'm working on a new version of the project focused on IoT using TS.
+I'm a brazilian developer graduating on Computer Engineering, who loves to test new technologies in order to try them out, for example a blockchain implementation I created using Python and Django, and with the vision of testing the technology even more, I'm working on a new version of the project focused on IoT using TS. I'm currently working as TechLead on [ZENVIA](https://www.zenvia.com/).
 
 <a href="https://www.linkedin.com/in/mauricio-leite-ferreira-9181a710b/">
   <img align="left" alt="Mauricio's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -17,10 +17,15 @@ I'm a brazilian developer graduating on Computer Engineering, who loves to test 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 ## GitHub Status for Nerds :
 
