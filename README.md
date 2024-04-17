@@ -1,7 +1,13 @@
 # A little piece of Mauricio
 
 ## Hi visitor
-I'm a brazilian developer graduated on Computer Engineering, who loves to test new technologies in order to try them out, for example a blockchain implementation I created using Python and Django, and with the vision of testing the technology even more, I'm working on a new version of the project focused on IoT using TS. I'm currently working as TechLead on [ZENVIA](https://www.zenvia.com/).
+Brazilian with a deep passion for software development. Actively participating in and founding projects focused on various fronts of the field, such as Programming Contests, AI study groups focused on physical simulations, and a competition project aimed at building an AUV.
+
+I have a keen interest in exploring new technologies, as evidenced by the blockchain implementation project I developed using Python and Django. I am constantly seeking to improve my knowledge, and currently, I am immersed in a new version of the project, with a focus on IoT, natively integrating it with an MQTT broker, this time using TypeScript.
+
+Additionally, I take pride in leading a team at Zenvia, where we are at the forefront of artificial intelligence. We are committed to driving innovation and excellence in our field, developing advanced solutions that harness the full potential of AI to meet the needs and challenges of the market.
+
+I'm currently working an Engineering Coordinator on [ZENVIA](https://www.zenvia.com/).
 
 <a href="https://www.linkedin.com/in/mauricio-leite-ferreira-9181a710b/">
   <img align="left" alt="Mauricio's LinkedIN" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" />
